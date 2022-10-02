@@ -1,0 +1,2 @@
+Gradio- pip install gradio
+Python version 3 or above
